@@ -1,12 +1,12 @@
 A collection of blog articles on various interesting and insightful topics related to programming, technology, and software development. Explore tutorials, best practices, and deep dives into diverse subjects.
 
-1. [Monkey Patching in Python: A Powerful Tool for Runtime Modifications](monkey-patching-python.md)
-    - [Introduction](monkey-patching-python.md#introduction)
-    - [What is Monkey Patching?](monkey-patching-python.md#what-is-monkey-patching)
-    - [Applications of Monkey Patching](monkey-patching-python.md#applications-of-monkey-patching)
-    - [Best Practices for Monkey Patching](monkey-patching-python.md#best-practices-for-monkey-patching)
-    - [Example: Monkey Patching a Third-Party Function](monkey-patching-python.md#example-monkey-patching-a-third-party-function)
-    - [Conclusion](monkey-patching-python.md#conclusion)
+1. [Monkey Patching in Python: A Powerful Tool for Runtime Modifications](posts/monkey-patching-python.md)
+    - [Introduction](posts/monkey-patching-python.md#introduction)
+    - [What is Monkey Patching?](posts/monkey-patching-python.md#what-is-monkey-patching)
+    - [Applications of Monkey Patching](posts/monkey-patching-python.md#applications-of-monkey-patching)
+    - [Best Practices for Monkey Patching](posts/monkey-patching-python.md#best-practices-for-monkey-patching)
+    - [Example: Monkey Patching a Third-Party Function](posts/monkey-patching-python.md#example-monkey-patching-a-third-party-function)
+    - [Conclusion](posts/monkey-patching-python.md#conclusion)
 
 ## Contributing
 
